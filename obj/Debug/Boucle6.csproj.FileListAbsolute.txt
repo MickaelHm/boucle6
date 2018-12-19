@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Boucle\Boucle6\Boucle6\bin\Debug\Boucle6.exe.config
+C:\Users\Moi\source\repos\Boucle\Boucle6\Boucle6\bin\Debug\Boucle6.exe
+C:\Users\Moi\source\repos\Boucle\Boucle6\Boucle6\bin\Debug\Boucle6.pdb
+C:\Users\Moi\source\repos\Boucle\Boucle6\Boucle6\obj\Debug\Boucle6.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\Boucle\Boucle6\Boucle6\obj\Debug\Boucle6.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Boucle\Boucle6\Boucle6\obj\Debug\Boucle6.exe
+C:\Users\Moi\source\repos\Boucle\Boucle6\Boucle6\obj\Debug\Boucle6.pdb
